@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ldiazperera/nodejs-api.git"
+    "url": "git@github.com:ldiazperera/nodejs-api.git"
 },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
